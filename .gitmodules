@@ -1,0 +1,3 @@
+[submodule "themes/jhTheme"]
+	path = themes/jhTheme
+	url = https://github.com/peroja/jhTheme
